@@ -1,6 +1,6 @@
 ### Hi, I'm Akhil
 
-Backend engineer (10+ yrs, Python) learning to build RAG and agent systems.
+Backend engineer (10+ yrs) learning to build RAG and agent systems.
 
 I've spent a decade on production backends at payments and enterprise companies. Now I build retrieval systems and measure whether they work.
 
